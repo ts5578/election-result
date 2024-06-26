@@ -17,8 +17,8 @@ In this Project Report I have taken data from https://results.eci.gov.in/ websit
 - [Resources](#resources)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
-- [License & Credits](#license&credits)
-- [Contributors](#contributors)
+- [built with](#builtwith)
+- [Authors](#authors)
 
 
 
