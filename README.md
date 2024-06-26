@@ -107,7 +107,8 @@ Finally after visualizing and creating various insights we can publish it and ex
 
 I have added my report pdf to this github repository, you can visit it here.
 
-[Result](parliamentary-constituency)
+[Result](/parliamentary-constituency.pdf)
+
 
 
 
