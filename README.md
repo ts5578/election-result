@@ -119,7 +119,7 @@ I have added my report pdf to this github repository, you can visit it here.
 
 This project provides hands-on experience in using Python to scrap data from real website and convert it into a datset. This dataset is later on used for visualization and learning key insights using Power BI. Finally you can see all the key insights that I created for this project [here](/parliamentary-constituency.pdf).
 
-
+Here is a small presentation on the entire [project](/election-result.pdf)
 
 
 
